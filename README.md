@@ -1,1 +1,1 @@
-# Automating blue teaming as a form of last defence against new attacks
+# Automating blue teaming of LLMs as a form of last defense against new attacks
