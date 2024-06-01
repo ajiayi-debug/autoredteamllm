@@ -1,0 +1,19 @@
+.Container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.List {
+  flex-grow: 1;
+  overflow-y: auto;
+}
+
+.TextField {
+  margin-bottom: 16px;
+}
+
+.Button {
+  align-self: flex-end;
+}
+
